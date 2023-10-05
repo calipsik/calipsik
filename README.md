@@ -22,6 +22,6 @@ Latest YouTube Videos
 ![VSCODE](https://img.shields.io/badge/-VSCODE-090909?style=for-the-badge&logo=Visualstudiocode&logoColor=FFFF00)
 
 
-№№№ Социальные сети:
+### Социальные сети:
 [![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=#0000FF)](https://vk.com/calipsik)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#0000FF)](https://t.me/calipsik)
