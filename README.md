@@ -24,4 +24,4 @@ Latest YouTube Videos
 
 ### Социальные сети:
 [![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=#0000FF)](https://vk.com/calipsik)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#0000FF)](https://t.me/calipsik)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#0000FF)](https://t.me/calipsik48)
